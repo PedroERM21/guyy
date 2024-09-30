@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">P_2</string>
-    <string name="name_hint">Introduce nombre</string>
-    <string name="edad_hint">Introduce edad</string>
-    <string name="send">Enviar</string>
+    <string name="app_name">Scrool</string>
 </resources>
